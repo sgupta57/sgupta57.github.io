@@ -1,37 +1,72 @@
-## Shiksha Gupta
+## Data Analyst
 
-You can use the [editor on GitHub](https://github.com/sgupta57/sgupta57.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### CONTACT 
+sgupta57@hawk.iit.edu (317) 985-2196 Chicago, IL linkedin.com/in/guptashiksha github.com/sgupta57
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### PROFILE
+Having 4+ years of experience as Data Analyst with expertise in reporting and client facing skills. My aim is to take up challenging roles to give data driven solutions in decision science.
 
-### Markdown
+### EDUCATION
+- 2018 ILLINOIS INSTITUTE OF TECHNOLOGY [CHICAGO, IL]
+Master of Computer Science
+- 2012 VISVESVARAYA TECHNOLOGICAL UNIVERSITY [INDIA]
+Bachelor of Science in Information Science
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### MANAGEMENT SKILLS
+- Agile Development
+- Project and Team Management
+- JIRA, Git, Excel, PowerPoint
 
-```markdown
-Syntax highlighted code block
+### TECHNICAL SKILLS
+- Machine Learning: Regression, Clustering, Decision Tree, Predictive Modeling, Classification
+- Data Visualization: Tableau
+- Advanced Analytics: Databricks, EC2, Snowflake, Redshift, Amazon S3, Legoland, Jupyter Notebook, Ultra Plus
+- Programming skills: SQL, Python, R, C, C++, Java, JavaScript, HTML, CSS
+- Database: SnowSQL, MySQL, SQL Server, Oracle, MongoDB, NoSQL
+- ETL/BI Tools: Business Objects, SSIS, SSRS, SSMS, Big Data, Web Intelligence Report.
+- Math: Statistics and Probability
 
-# Header 1
-## Header 2
-### Header 3
+### EXPERIENCE
+FEB 2019 - PRESENT
+**Data Analyst | Capital One, Chicago, IL**
+- Migrated and validated Credit Policy Control scripts from Redshift to Snowflake which reduces the execution time of scripts.
+- Automated scripts to create the monthly report using Python, SnowSQL, EC2 instance and Databricks which lower the error in creating monthly report and saved 60 percent script execution time.
+- Developed and automated scripts to consolidate reports into a product report to rationalize the process which saved 80 percent of execution time.
+- Provided training to teammates on automation of the scripts and insights on Redshift and Snowflake differences and created learning documents which saved the time of team members in spending related issues.
 
-- Bulleted
-- List
+JAN 2015 - JULY 2016
+**Business Intelligence Developer | Tata Consultancy Services, India**
+- Developed and maintained data mart to extract, load and transform (ETL) data using SSIS packages to perform analysis.
+- Created dashboards using Tableau and generated reports to track issues raised by clients, improved the solving rate by 8 percent.
 
-1. Numbered
-2. List
+MAR 2013 - DEC 2014
 
-**Bold** and _Italic_ and `Code` text
+**Business Intelligence/Data Analyst | Tata Consultancy Services, India**
 
-[Link](url) and ![Image](src)
-```
+- Implemented data-driven insights and customer behavior analysis using python visualization techniques which identified key issues to work on.
+- Automated daily tasks by writing SQL procedural queries which reduced the monitoring task by 40 percent to save time.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+DEC 2012 - MAR 2013
 
-### Jekyll Themes
+**Business Intelligence Intern | Tata Consultancy Services, India**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sgupta57/sgupta57.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Developed REST API in the Python to interact with MySQL database for managing customer records.
 
-### Support or Contact
+### ACADEMIC PROJECTS
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Analyze affect of Climate change on Human Behavior**
+- Retrieved and analyzed crime rate and climate change data of Chicago using R to find the relationship between them.
+- Used Tableau for visualization of the data by generating dashboards and Tableau reports on different metrics.
+
+**Collect Political Social Network Data using Twitter API**
+- Used Twitter API to build a social network for 4 U.S. Presidential candidates using their account information.
+- Analyzed the number of shared accounts followed by each pair of candidates to find some interesting information.
+- Used libraries such as Networkx, Matplotlib to plot the links between them and print stats of resulting graph for analysis.
+
+**Predict Crime Rate using Machine Learning  Models**
+- Implemented Decision Tree, Linear Classification and Regression models to predict crime rates around the country.
+- Trained, tested & calculated most predictive features on a dataset and compared every model’s performance.
+
+**Benchmark CPU, Memory, Disk and Network on AWS Cloud**
+- Have implemented CPU, Memory, Disk and Network benchmark code in C to measure latency and throughput over AWS.
+- Used strong-scaling, AVX instructions and multithreading to compare results on different Amazon EC2 instances.
