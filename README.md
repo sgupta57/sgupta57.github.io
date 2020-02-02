@@ -13,9 +13,9 @@ Chicago, IL
 Having 4+ years of experience as Data Analyst with expertise in reporting and client facing skills. My aim is to take up challenging roles to give data driven solutions in decision science.
 
 ### EDUCATION
-- 2018 ILLINOIS INSTITUTE OF TECHNOLOGY [CHICAGO, IL]
+- ILLINOIS INSTITUTE OF TECHNOLOGY [CHICAGO, IL] | 2018
 Master of Computer Science
-- 2012 VISVESVARAYA TECHNOLOGICAL UNIVERSITY [INDIA]
+- VISVESVARAYA TECHNOLOGICAL UNIVERSITY [INDIA] | 2012
 Bachelor of Science in Information Science
 
 ### MANAGEMENT SKILLS
@@ -39,7 +39,7 @@ Bachelor of Science in Information Science
 - Developed and automated scripts to consolidate reports into a product report to rationalize the process which saved 80 percent of execution time.
 - Provided training to teammates on automation of the scripts and insights on Redshift and Snowflake differences and created learning documents which saved the time of team members in spending related issues.
 
-**Business Intelligence Developer | Tata Consultancy Services, India | JAN 2015 - JULY 2016**
+**Business Intelligence Developer | Tata Consultancy Services, India | JAN 2015 - JUL 2016**
 - Developed and maintained data mart to extract, load and transform (ETL) data using SSIS packages to perform analysis.
 - Created dashboards using Tableau and generated reports to track issues raised by clients, improved the solving rate by 8 percent.
 
@@ -62,7 +62,7 @@ Bachelor of Science in Information Science
 - Analyzed the number of shared accounts followed by each pair of candidates to find some interesting information.
 - Used libraries such as Networkx, Matplotlib to plot the links between them and print stats of resulting graph for analysis.
 
-**Predict Crime Rate using Machine Learning  Models**
+**Predict Crime Rate using Machine Learning Models**
 - Implemented Decision Tree, Linear Classification and Regression models to predict crime rates around the country.
 - Trained, tested & calculated most predictive features on a dataset and compared every model’s performance.
 
