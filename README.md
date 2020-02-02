@@ -18,38 +18,31 @@ Bachelor of Science in Information Science
 - JIRA, Git, Excel, PowerPoint
 
 ### TECHNICAL SKILLS
-- Machine Learning: Regression, Clustering, Decision Tree, Predictive Modeling, Classification
-- Data Visualization: Tableau
-- Advanced Analytics: Databricks, EC2, Snowflake, Redshift, Amazon S3, Legoland, Jupyter Notebook, Ultra Plus
-- Programming skills: SQL, Python, R, C, C++, Java, JavaScript, HTML, CSS
-- Database: SnowSQL, MySQL, SQL Server, Oracle, MongoDB, NoSQL
-- ETL/BI Tools: Business Objects, SSIS, SSRS, SSMS, Big Data, Web Intelligence Report.
-- Math: Statistics and Probability
+- **Machine Learning:** Regression, Clustering, Decision Tree, Predictive Modeling, Classification
+- **Data Visualization:** Tableau
+- **Advanced Analytics:** Databricks, EC2, Snowflake, Redshift, Amazon S3, Legoland, Jupyter Notebook, Ultra Plus
+- **Programming skills:** SQL, Python, R, C, C++, Java, JavaScript, HTML, CSS
+- **Database:** SnowSQL, MySQL, SQL Server, Oracle, MongoDB, NoSQL
+- **ETL/BI Tools:** Business Objects, SSIS, SSRS, SSMS, Big Data, Web Intelligence Report.
+- **Math:** Statistics and Probability
 
 ### EXPERIENCE
-FEB 2019 - PRESENT
-**Data Analyst | Capital One, Chicago, IL**
+**Data Analyst | Capital One, Chicago, IL | FEB 2019 - PRESENT**
 - Migrated and validated Credit Policy Control scripts from Redshift to Snowflake which reduces the execution time of scripts.
 - Automated scripts to create the monthly report using Python, SnowSQL, EC2 instance and Databricks which lower the error in creating monthly report and saved 60 percent script execution time.
 - Developed and automated scripts to consolidate reports into a product report to rationalize the process which saved 80 percent of execution time.
 - Provided training to teammates on automation of the scripts and insights on Redshift and Snowflake differences and created learning documents which saved the time of team members in spending related issues.
 
-JAN 2015 - JULY 2016
-**Business Intelligence Developer | Tata Consultancy Services, India**
+**Business Intelligence Developer | Tata Consultancy Services, India | JAN 2015 - JULY 2016**
 - Developed and maintained data mart to extract, load and transform (ETL) data using SSIS packages to perform analysis.
 - Created dashboards using Tableau and generated reports to track issues raised by clients, improved the solving rate by 8 percent.
 
-MAR 2013 - DEC 2014
-
-**Business Intelligence/Data Analyst | Tata Consultancy Services, India**
-
+**Business Intelligence/Data Analyst | Tata Consultancy Services, India | MAR 2013 - DEC 2014**
 - Implemented data-driven insights and customer behavior analysis using python visualization techniques which identified key issues to work on.
 - Automated daily tasks by writing SQL procedural queries which reduced the monitoring task by 40 percent to save time.
 
-DEC 2012 - MAR 2013
 
-**Business Intelligence Intern | Tata Consultancy Services, India**
-
+**Business Intelligence Intern | Tata Consultancy Services, India | DEC 2012 - MAR 2013**
 - Developed REST API in the Python to interact with MySQL database for managing customer records.
 
 ### ACADEMIC PROJECTS
