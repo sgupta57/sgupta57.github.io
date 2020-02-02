@@ -14,8 +14,10 @@ Having 4+ years of experience as Data Analyst with expertise in reporting and cl
 
 ### EDUCATION
 - ILLINOIS INSTITUTE OF TECHNOLOGY [CHICAGO, IL] | 2018
+
 Master of Computer Science
 - VISVESVARAYA TECHNOLOGICAL UNIVERSITY [INDIA] | 2012
+
 Bachelor of Science in Information Science
 
 ### MANAGEMENT SKILLS
