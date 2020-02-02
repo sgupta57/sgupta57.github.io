@@ -1,5 +1,3 @@
-## Data Analyst
-
 ### CONTACT 
 [sgupta57@hawk.iit.edu](mailto://sgupta57@hawk.iit.edu) 
 
