@@ -1,7 +1,7 @@
 ## Data Analyst
 
 ### CONTACT 
-sgupta57@hawk.iit.edu 
+[sgupta57@hawk.iit.edu](mailto://sgupta57@hawk.iit.edu) 
 
 [(317) 985-2196](tel://+13179852196) 
 
