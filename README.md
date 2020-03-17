@@ -1,13 +1,5 @@
 ### CONTACT 
-[sgupta57@hawk.iit.edu](mailto://sgupta57@hawk.iit.edu) 
-
-[(317) 985-2196](tel://+13179852196) 
-
-Chicago, IL
-
-[linkedin.com/in/guptashiksha](https://www.linkedin.com/in/guptashiksha)
-
-[github.com/sgupta57](https://www.github.com/sgupta57)
+[sgupta57@hawk.iit.edu](mailto://sgupta57@hawk.iit.edu) | Chicago, IL | [(317) 985-2196](tel://+13179852196) | [linkedin.com/in/guptashiksha](https://www.linkedin.com/in/guptashiksha) | [github.com/sgupta57](https://www.github.com/sgupta57)
 
 ### PROFILE
 Having 4+ years of experience as Data Analyst with expertise in reporting and client facing skills. My aim is to take up challenging roles to give data driven solutions in decision science.
@@ -53,7 +45,7 @@ Bachelor of Science in Information Science
 **Business Intelligence Intern | Tata Consultancy Services, India | DEC 2012 - MAR 2013**
 - Developed REST API in the Python to interact with MySQL database for managing customer records.
 
-### ACADEMIC PROJECTS
+### PROJECTS
 
 **Analyze affect of Climate change on Human Behavior**
 - Retrieved and analyzed crime rate and climate change data of Chicago using R to find the relationship between them.
