@@ -1,5 +1,7 @@
 Having 4+ years of experience as Data Analyst with expertise in reporting and client facing skills. My aim is to take up challenging roles to give data driven solutions in decision science.
 
+[Experience 👩‍🔬](#experience) | [Projects 🤖](#projects) | [Tech Stack 🕹](#tech-stack) | [Education 👩‍🏫](#education) | [Contact ☎️](#contact)
+
 ### Experience
 **Data Analyst | Capital One, Chicago, IL | FEB 2019 - PRESENT**
 - Migrated and validated Credit Policy Control scripts from Redshift to Snowflake which reduces the execution time of scripts.
