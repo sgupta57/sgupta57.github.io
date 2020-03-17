@@ -1,3 +1,7 @@
+<p align="center">
+	<img width="180" height="180" src="/img/circular-shot.png"/>
+</p>
+
 Having 4+ years of experience as Data Analyst with expertise in reporting and client facing skills. My aim is to take up challenging roles to give data driven solutions in decision science.
 
 [Experience 👩‍🔬](#experience) | [Projects 🤖](#projects) | [Tech Stack 🕹](#tech-stack) | [Education 👩‍🏫](#education) | [Contact ☎️](#contact)
