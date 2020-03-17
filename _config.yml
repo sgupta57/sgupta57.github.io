@@ -4,7 +4,5 @@ name: &name "Shiksha Gupta"
 description: &description "DATA ANALYTICS & DATA SCIENCE"
 name: &name "Shiksha Gupta"
 
-social:
-  type                   : Person
-  name                   : Linkedin
-  links: https://www.linkedin.com/in/guptashiksha
+author:
+  linkedin: https://www.linkedin.com/in/guptashiksha
