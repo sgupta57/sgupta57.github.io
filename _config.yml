@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: "SHIKSHA GUPTA"
-description: "DATA ANALYTICS & DATA SCIENCE"
+name: &name "Shiksha Gupta"
+description: &description "DATA ANALYTICS & DATA SCIENCE"
 name: &name "Shiksha Gupta"
