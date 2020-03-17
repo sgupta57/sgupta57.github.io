@@ -53,12 +53,9 @@ Having 4+ years of experience as Data Analyst with expertise in reporting and cl
 - JIRA, Git, Excel, PowerPoint
 
 ### Education
-- ILLINOIS INSTITUTE OF TECHNOLOGY [CHICAGO, IL] -  2018
+- Master of Computer Science [Illinois Institute of Technology](https://www.iit.edu/) Chicago, IL 2018
 
-Master of Computer Science
-- VISVESVARAYA TECHNOLOGICAL UNIVERSITY [INDIA] -  2012
-
-Bachelor of Science in Information Science
+- Bachelor of Science in Information Science [Visvesvaraya Technological University](https://vtu.ac.in/) India  2012
 
 ### Contact
 
