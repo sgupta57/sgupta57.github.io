@@ -1,32 +1,6 @@
-### CONTACT 
-[sgupta57@hawk.iit.edu](mailto://sgupta57@hawk.iit.edu) | [(317) 985-2196](tel://+13179852196) | [linkedin.com/in/guptashiksha](https://www.linkedin.com/in/guptashiksha) | [github.com/sgupta57](https://www.github.com/sgupta57)
-
-### PROFILE
 Having 4+ years of experience as Data Analyst with expertise in reporting and client facing skills. My aim is to take up challenging roles to give data driven solutions in decision science.
 
-### EDUCATION
-- ILLINOIS INSTITUTE OF TECHNOLOGY [CHICAGO, IL] | 2018
-
-Master of Computer Science
-- VISVESVARAYA TECHNOLOGICAL UNIVERSITY [INDIA] | 2012
-
-Bachelor of Science in Information Science
-
-### MANAGEMENT SKILLS
-- Agile Development
-- Project and Team Management
-- JIRA, Git, Excel, PowerPoint
-
-### TECHNICAL SKILLS
-- **Machine Learning:** Regression, Clustering, Decision Tree, Predictive Modeling, Classification
-- **Data Visualization:** Tableau
-- **Advanced Analytics:** Databricks, EC2, Snowflake, Redshift, Amazon S3, Legoland, Jupyter Notebook, Ultra Plus
-- **Programming skills:** SQL, Python, R, C, C++, Java, JavaScript, HTML, CSS
-- **Database:** SnowSQL, MySQL, SQL Server, Oracle, MongoDB, NoSQL
-- **ETL/BI Tools:** Business Objects, SSIS, SSRS, SSMS, Big Data, Web Intelligence Report.
-- **Math:** Statistics and Probability
-
-### EXPERIENCE
+### Experience
 **Data Analyst | Capital One, Chicago, IL | FEB 2019 - PRESENT**
 - Migrated and validated Credit Policy Control scripts from Redshift to Snowflake which reduces the execution time of scripts.
 - Automated scripts to create the monthly report using Python, SnowSQL, EC2 instance and Databricks which lower the error in creating monthly report and saved 60 percent script execution time.
@@ -45,7 +19,7 @@ Bachelor of Science in Information Science
 **Business Intelligence Intern | Tata Consultancy Services, India | DEC 2012 - MAR 2013**
 - Developed REST API in the Python to interact with MySQL database for managing customer records.
 
-### PROJECTS
+### Projects
 
 **Analyze affect of Climate change on Human Behavior**
 - Retrieved and analyzed crime rate and climate change data of Chicago using R to find the relationship between them.
@@ -63,3 +37,33 @@ Bachelor of Science in Information Science
 **Benchmark CPU, Memory, Disk and Network on AWS Cloud**
 - Have implemented CPU, Memory, Disk and Network benchmark code in C to measure latency and throughput over AWS.
 - Used strong-scaling, AVX instructions and multithreading to compare results on different Amazon EC2 instances.
+
+### Tech Stack
+- **Machine Learning:** Regression, Clustering, Decision Tree, Predictive Modeling, Classification
+- **Data Visualization:** Tableau
+- **Advanced Analytics:** Databricks, EC2, Snowflake, Redshift, Amazon S3, Legoland, Jupyter Notebook, Ultra Plus
+- **Programming skills:** SQL, Python, R, C, C++, Java, JavaScript, HTML, CSS
+- **Database:** SnowSQL, MySQL, SQL Server, Oracle, MongoDB, NoSQL
+- **ETL/BI Tools:** Business Objects, SSIS, SSRS, SSMS, Big Data, Web Intelligence Report.
+- **Math:** Statistics and Probability
+- Agile Development
+- Project and Team Management
+- JIRA, Git, Excel, PowerPoint
+
+### Education
+- ILLINOIS INSTITUTE OF TECHNOLOGY [CHICAGO, IL] -  2018
+
+Master of Computer Science
+- VISVESVARAYA TECHNOLOGICAL UNIVERSITY [INDIA] -  2012
+
+Bachelor of Science in Information Science
+
+### Contact
+
+📨 [sgupta57@hawk.iit.edu](mailto://sgupta57@hawk.iit.edu)
+
+📞 [(317) 985-2196](tel://+13179852196) 
+
+📎 [linkedin.com/in/guptashiksha](https://www.linkedin.com/in/guptashiksha) 
+
+💻 [github.com/sgupta57](https://www.github.com/sgupta57)
