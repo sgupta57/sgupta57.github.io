@@ -1,7 +1,5 @@
 theme: jekyll-theme-cayman
-title: "SHIKSHA GUPTA"
-name: &name "Shiksha Gupta"
-description: &description "DATA ANALYTICS & DATA SCIENCE"
-
-author:
-  linkedin: https://www.linkedin.com/in/guptashiksha
+title                    : "SHIKSHA GUPTA"
+locale                   : "en-US"
+name                     : &name "Shiksha Gupta"
+description              : &description "Data Analytics & Data Science"
