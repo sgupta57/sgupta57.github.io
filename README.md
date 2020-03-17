@@ -55,7 +55,7 @@ Having 4+ years of experience as Data Analyst with expertise in reporting and cl
 ### Education
 - Master of Computer Science [Illinois Institute of Technology](https://www.iit.edu/) Chicago, IL 2018
 
-- Bachelor of Science in Information Science [Visvesvaraya Technological University](https://vtu.ac.in/) India  2012
+- Bachelor of Science in Information Science [Visvesvaraya Technological University](https://vtu.ac.in/en/) India  2012
 
 ### Contact
 
