@@ -8,10 +8,10 @@ Having 4+ years of experience as Data Analyst with expertise in reporting and cl
 
 ### Experience
 **Data Analyst | Capital One, Chicago, IL | FEB 2019 - PRESENT**
-▪ Migrated and validated Credit Policy Control scripts for Kohl’s partnerships credit card from Redshift to Snowflake which reduces the execution time of scripts.
-▪ Automated scripts using Python, SnowSQL, Presto, EC2 instance, and Databricks which removed the error in creating reports and saved 60 percent of script execution time.
-▪ Developed, validated and automated Credit Policy Control scripts for commercial accounts and promotional reports for consumer accounts for partnerships credit card and rationalize the process which saved 80 percent of execution time.
-▪ Provided training to teammates on automation of the scripts and insights on data mapping and created learning documents which saved the time of team members in spending related issues.
+- Migrated and validated Credit Policy Control scripts for Kohl’s partnerships credit card from Redshift to Snowflake which reduces the execution time of scripts.
+- Automated scripts using Python, SnowSQL, Presto, EC2 instance, and Databricks which removed the error in creating reports and saved 60 percent of script execution time.
+- Developed, validated and automated Credit Policy Control scripts for commercial accounts and promotional reports for consumer accounts for partnerships credit card and rationalize the process which saved 80 percent of execution time.
+- Provided training to teammates on automation of the scripts and insights on data mapping and created learning documents which saved the time of team members in spending related issues.
 
 **Business Intelligence Developer | Tata Consultancy Services, India | JAN 2015 - JUL 2016**
 - Developed and maintained data mart to extract, load and transform (ETL) data using SSIS packages to perform analysis.
