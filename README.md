@@ -46,8 +46,8 @@ Having 4+ years of experience as Data Analyst with expertise in reporting and cl
 
 ### Tech Stack
 - **Machine Learning:** Regression, Clustering, Decision Tree, Predictive Modeling, Classification
-- **Data Visualization:** Tableau
-- **Advanced Analytics:** Databricks, EC2, Snowflake, Redshift, Amazon S3, Legoland, Jupyter Notebook, Ultra Plus
+- **Data Visualization:** Tableau, Matplotlib
+- **Advanced Analytics:** Databricks, EC2, Snowflake, Redshift, Amazon S3, Legoland, Presto, Jupyter Notebook, Ultra Plus
 - **Programming skills:** SQL, Python, R, C, C++, Java, JavaScript, HTML, CSS
 - **Database:** SnowSQL, MySQL, SQL Server, Oracle, MongoDB, NoSQL
 - **ETL/BI Tools:** Business Objects, SSIS, SSRS, SSMS, Big Data, Web Intelligence Report.
