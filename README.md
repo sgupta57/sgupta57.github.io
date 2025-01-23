@@ -72,7 +72,7 @@ Results-driven Data Analyst with 9+ years of experience in leveraging data to de
 
 ### Contact
 
-📨 [sgupta57@hawk.iit.edu](mailto://sgupta57@hawk.iit.edu)
+📨 [shiksha8@gmail.com](mailto://shiksha8@gmail.com)
 
 📞 [(317) 985-2196](tel://+13179852196) 
 
