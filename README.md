@@ -2,7 +2,7 @@
 	<img width="180" height="180" src="/img/circular-shot.png"/>
 </p>
 
-Having 5+ years of experience as Data Analyst with expertise in reporting and client facing skills. With my academic and professional experience, I have developed an ability to transform mounds of data into a form which can readily be analyzed to share recommendation and aid in business decision making.
+Results-driven Data Analyst with 9+ years of experience in leveraging data to deliver actionable insights and support business decision-making. Adept at transforming complex datasets into meaningful reports and visualizations to drive strategic outcomes. Highly skilled in creating insightful dashboards, client engagement, and cross-functional collaboration to identify opportunities, solve problems, and maximize business valueResults-driven Data Analyst with 9+ years of experience in leveraging data to deliver actionable insights and support business decision-making. Adept at transforming complex datasets into meaningful reports and visualizations to drive strategic outcomes. Highly skilled in creating insightful dashboards, client engagement, and cross-functional collaboration to identify opportunities, solve problems, and maximize business value.
 
 [Experience 👩🏻‍💻](#experience) | [Projects 🤖](#projects) | [Tech Stack 🕹](#tech-stack) | [Education 🎓](#education) | [Contact ☎️](#contact)
 
