@@ -7,7 +7,16 @@ Having 5+ years of experience as Data Analyst with expertise in reporting and cl
 [Experience 👩🏻‍💻](#experience) | [Projects 🤖](#projects) | [Tech Stack 🕹](#tech-stack) | [Education 🎓](#education) | [Contact ☎️](#contact)
 
 ### Experience
-**Data Analyst | Capital One, Chicago, IL | FEB 2019 - PRESENT**
+**Senior Data Analyst | BMO Harris Bank, Chicago, IL | APR 2021 - PRESENT**
+- Designed and implemented Power BI Dashboards to provide actionable insights, enhancing decision-making processes for business stakeholders.
+- Developed SAS scripts to optimize and automate reporting processes, reducing reporting time by 67 percent and increasing efficiency.
+- Designed and implanted the One Client Commercial-Wealth Penetration and Referral Dashboard, to empower leadership and frontline teams to access actionable insights for performance tracking, identifying cross-functional opportunities, and enhancing customer experience.
+- Developed predictive models in python using Scikit-learn and Keras to identify high-value leads, contributing to the One Client Commercial to Wealth initiative and driving cross-functional business growth.
+- Created a Client Feedback Dashboard in Power BI, enabling data-driven strategies to improve the Net Promoter Score (NPS) and customer satisfaction.
+- Delivered ad-hoc analysis and reports to stakeholders, addressing diverse business questions and influencing strategic decisions.
+- Collaborated with cross-functional teams to identify data gaps, streamline workflows, and improve reporting efficiency.
+
+**Data Analyst | Capital One, Chicago, IL | FEB 2019 - FEB 2021**
 - Migrated and validated Credit Policy Control scripts for Kohl’s partnerships credit card from Redshift to Snowflake which reduces the execution time of scripts.
 - Automated scripts using Python, SnowSQL, Presto, EC2 instance, and Databricks which removed the error in creating reports and saved 60 percent of script execution time.
 - Developed, validated and automated Credit Policy Control scripts for commercial accounts and promotional reports for consumer accounts for partnerships credit card and rationalize the process which saved 80 percent of execution time.
