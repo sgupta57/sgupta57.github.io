@@ -2,7 +2,7 @@
 	<img width="180" height="180" src="/img/circular-shot.png"/>
 </p>
 
-Results-driven Data Analyst with 9+ years of experience in leveraging data to deliver actionable insights and support business decision-making. Adept at transforming complex datasets into meaningful reports and visualizations to drive strategic outcomes. Highly skilled in creating insightful dashboards, client engagement, and cross-functional collaboration to identify opportunities, solve problems, and maximize business value.
+Results-oriented Senior Data Analyst with over 9 years of experience in delivering data-driven insights to support strategic decision-making and business growth. Proven ability to translate complex data into clear, actionable intelligence through advanced analytics, interactive dashboards, and automation. Expertise in Power BI, Python, SQL, SAS, and predictive modeling with a strong track record of enhancing operational efficiency and driving cross-functional initiatives. Adept at collaborating with stakeholders, influencing strategy, and identifying high-impact opportunities to improve performance, customer experience, and revenue.
 
 [Experience 👩🏻‍💻](#experience) | [Projects 🤖](#projects) | [Tech Stack 🕹](#tech-stack) | [Education 🎓](#education) | [Contact ☎️](#contact)
 
